@@ -1,0 +1,32 @@
+Test Case Design
+
+Authentication (Login/Logout)
+1. Verify login with valid credentials.
+2. Verify login fails with invalid credentials.
+3. Verify "Forgot Password" functionality.
+4. Verify logout functionality.
+
+Registration
+5. Verify user registration with valid details.
+6. Verify registration fails with invalid email format.
+7. Verify registration fails with an already registered email.
+
+Product Management (CRUD Operations)
+8. Verify creating a new product.
+9. Verify updating a product's details.
+10. Verify deleting a product.
+11. Verify viewing a product's details.
+
+Product Search
+12. Verify searching for a product with valid keywords.
+13. Verify no results for invalid keywords.
+14. Verify the auto-suggestion dropdown displays suggestions while typing.
+Checkout
+15. Verify adding a product to the cart.
+16. Verify proceeding to checkout from the cart.
+17. Verify payment processing.
+
+UI/UX
+18. Verify navigation links redirect to the correct pages.
+19. Verify error messages are displayed correctly.
+20. Verify all buttons have tooltips.
